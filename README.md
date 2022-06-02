@@ -3,8 +3,8 @@
   
 <h2 align="center"> 📈 Github statistics </h2>
 <div align="center">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=nightowl">
-  <img height="148"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl"> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=nightowl">
+  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl"> 
 </div>
 
 
