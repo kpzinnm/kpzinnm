@@ -1,6 +1,6 @@
 ### Olá, Eu sou Gabriel Alves! Vem conhecer o meu trabalho
 
-<div>
+<div align="center">
   
   <a href="https://github.com/kpzinnm">
     
