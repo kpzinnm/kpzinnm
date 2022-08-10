@@ -26,8 +26,8 @@ Langs:
   
 <h2 align="center"> 📈 Github statistics </h2>
 <div display="flex">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=nightowl" style="max-width: 69%;">
-  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl" style="max-width: 29%;"> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=nightowl">
+  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl"> 
 </div>
 
 
