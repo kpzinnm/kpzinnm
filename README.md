@@ -25,8 +25,7 @@ Langs:
 <a href="https://github.com/kpzinnm">
   
 <h2 align="center"> 📈 Github statistics </h2>
-[![card](https://github-readme-stats.vercel.app/api?username=kpzinnm&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl&hide_border=true" /></a> 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl&hide_border=true" /></a> |
+| ------------- | ------------- |
 
