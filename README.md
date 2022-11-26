@@ -1,31 +1,22 @@
-### Olá, Eu sou Gabriel Santos Alves! Vem conhecer o meu trabalho
-<a href="https://ibb.co/4SMnQJq"><img height="300px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="Innovation-amico" border="0" align="right"></a>
 
-### ☂️ Sobre mim 
-
-<p align="justify">Sou técnico em informática e graduando em Ciências da Computação pela Universidade Federal de Campina Grande.</p>
-
-### ⚛️ Skills  
-
-Back-end Dev: 
-<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS">
-
-Front-end Dev: 
-<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS">
+# 💫 About Me:
+Sou técnico em informática e graduando em Ciências da Computação pela Universidade Federal de Campina Grande.<br>
 
 
-Langs:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagrem.com/gabriel_alvesan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-alves-b69836181/) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kpzinnm&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kpzinnm&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kpzinnm&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kpzinnm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/kpzinnm">
-  
-<h2 align="center"> 📈 Github statistics </h2>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpzinnm&layout=compact&theme=nightowl&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
