@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Sou técnico em informática e graduando em Ciências da Computação pela Universidade Federal de Campina Grande.<br>
+Graduando em Ciências da Computação pela Universidade Federal de Campina Grande. Desenvolvedor com foco em back-end e tecnologias associadas à inteligência artificial.
 
 
 ## 🌐 Socials:
