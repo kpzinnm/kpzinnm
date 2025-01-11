@@ -18,5 +18,5 @@
 <p><img align="left"" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpzinnm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="kpzinnm"height="195" /></p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=dracula&locale=en" alt="kpzinnm" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kpzinnm&show_icons=true&theme=dracula&locale=en" alt="kpzinnm" /></p> -->
 
